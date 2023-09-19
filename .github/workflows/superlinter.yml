@@ -1,9 +1,9 @@
 Super-Linter
 
-on: push
+on:push
 
 jobs:
-  suoer-lint:
+  super-lint:
   runs-on: ubuntu-latest
   steps
     - name: Checkout code
